@@ -11,7 +11,9 @@
 
 ### Model
 https://huggingface.co/teknium/Replit-v1-CodeInstruct-3B-fp16 (Thanks to teknium ❤) <br />
-https://huggingface.co/replit/replit-code-v1-3b (Thanks to replit ❤)
+https://huggingface.co/datasets/sahil2801/CodeAlpaca-20k <br />
+https://github.com/teknium1/GPTeacher <br />
+https://huggingface.co/replit/replit-code-v1-3b (Thanks to replit ❤) <br />
 
 ### Main Repo
 https://github.com/huggingface/transformers
